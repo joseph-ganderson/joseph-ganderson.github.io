@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "Postdoctoral Political Economist"
   location         : "Nottingham/London"
-  employer         : 
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "London School of Economics"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=z_1CaucAAAAJ&hl=en"
-  email            : "mailto:joeganderson@gmail.com"
+  email            : "joeganderson@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@joeganderson"
+  twitter          : "joeganderson"
   vine             :
   weibo            :
   xing             :
