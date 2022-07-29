@@ -14,7 +14,7 @@ author_profile: true
 
 ## Chapters in Edited Volumes
 
-* J. Ganderson and J. Limberg (2021) ‘The Rise of General Consumption Taxes’ in P. Genschel and L. Seelkopf (Eds.) _Global Taxation: How Modern Taxes Conquered the World_, Oxford: UOP. pp. 199-222. [DOI](https://doi.org/10.1093/oso/9780192897572.003.0009 "The Rise of General Consumption Taxes)
+* J. Ganderson and J. Limberg (2021) ‘The Rise of General Consumption Taxes’ in P. Genschel and L. Seelkopf (Eds.) _Global Taxation: How Modern Taxes Conquered the World_, Oxford: UOP. pp. 199-222. [DOI](https://doi.org/10.1093/oso/9780192897572.003.0009 "The Rise of General Consumption Taxes")
 * J. Ganderson (2021) ‘Fighting for Fintech: Competition, Regulation and Accountability in a Europe of Financial Innovation’ in A. Héritier and J. Karremans (Eds). Regulating Finance in Europe: Policy effects and Political Accountability Cheltenham: Edward Elgar. pp.  [DOI](https://doi.org/10.4337/9781800379596.00013 "Fighting for Fintech")
 * J. Ganderson, A Héritier and A. Smolenska (2020) ‘The Impacts of Technological Innovation on Regulatory Structure: Fintech in post-crisis Europe’. Chapter, in M. Schoeller and A. Héritier (Eds.) Governing Finance in Europe: A Centralization of Rulemaking? Cheltenham: Edward Elgar. pp. 164-189. [DOI](https://doi.org/10.4337/9781839101120.00017 "The Impacts of Technological Innovation on Regulatory Structure")
 
