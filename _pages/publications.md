@@ -8,7 +8,7 @@ author_profile: true
 ## Journal Articles
 
 * J. Ganderson (2022) 'Prawn Cocktails and Cold Shoulders: Labour, the Conservatives and the City of London since the 1990s', _Political Quarterly_ (93:2), pp. 209-217. [DOI](https://doi.org/10.1111/1467-923X.13137 "Prawn Cocktails and Cold Shoulders") 
-* J. Ganderson, Z. Truchlewski and W. Schelkle (2021) ‘Buying Time for Democracies? European Union Emergency Politics in the Time of COVID-19’, _West European Politics_ (44:5-6), pp. 1353-1375. [DOI](https://doi.org/10.1080/01402382.2021.1916723 "Buying Time for Democracies?)
+* J. Ganderson, Z. Truchlewski and W. Schelkle (2021) ‘Buying Time for Democracies? European Union Emergency Politics in the Time of COVID-19’, _West European Politics_ (44:5-6), pp. 1353-1375. [DOI]([https://doi.org/10.1111/1467-923X.13137](https://doi.org/10.1080/01402382.2021.1916723) "Buying Time for Democracies?") 
 * J. Ganderson (2020) ‘To Change Banks or Bankers? – The Politics of Bank Structural Regulation in the UK and the Netherlands’, _Business & Politics_ (22:1), pp. 196-223. [DOI](doi:10.1017/bap.2019.34)
 * J. Ganderson, L. Seelkopf, P. Genschel, J. Limberg, Y. Mnaili, E. Ehmanis (2019) ‘The Rise of Modern Taxation: A New Comprehensive Dataset of Tax Introductions Worldwide’, _Review of International Organizations_ (16), pp. 239-263. [DOI](https://doi.org/10.1007/s11558-019-09359-9) 
 
