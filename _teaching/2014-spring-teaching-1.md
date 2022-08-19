@@ -2,7 +2,7 @@
 title: "Introduction to Teaching and Learning in Higher Education"
 collection: teaching
 type: "Undergraduate course"
-permalink: https://www.eui.eu/en/services/academic-service/academic-professional-development/introduction-to-teaching-and-learning-in-higher-education
+permalink: /teaching/2019-intro-to-teaching
 venue: "European University Institute"
 date: 2019-01-01
 location: "Florence, Italy"
