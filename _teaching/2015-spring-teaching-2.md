@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "The Politics of the Global Financial Crisis"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+type: "Undergraduate Course"
+permalink: /teaching/2019-politics-of-global-financial-crisis
+venue: "Heinrich Heine University, Dept. of Political Science"
+date: 2019-06-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Personally designed intensive 3 day course covering financial cycles/stability, causes, immediate and legacy economic and political consequences of the 2008 banking crash.  
 
 Heading 1
 ======
