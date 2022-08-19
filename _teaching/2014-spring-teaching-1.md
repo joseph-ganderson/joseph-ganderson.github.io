@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: https://www.eui.eu/en/services/academic-service/academic-professional-development/introduction-to-teaching-and-learning-in-higher-education
 venue: "European University Institute"
-date: 2019-0
+date: 2019-01
 location: "City, Country"
 ---
 
