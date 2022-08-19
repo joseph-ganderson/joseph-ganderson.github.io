@@ -1,14 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Introduction to Teaching and Learning in Higher Education"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+permalink: https://www.eui.eu/en/services/academic-service/academic-professional-development/introduction-to-teaching-and-learning-in-higher-education
+venue: "European University Institute"
+date: 2019-0
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Intensive weeklong course covering didactic theories and approaches, course design, teaching and learning objectives, teaching materials and planning. 
+
 
 Heading 1
 ======
