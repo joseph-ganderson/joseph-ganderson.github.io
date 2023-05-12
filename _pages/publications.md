@@ -7,6 +7,8 @@ author_profile: true
 
 ## Journal Articles
 
+* J. Ganderson, K. Alexander Shaw and W. Schelkle (2023) 'The strength of a weak centre: pandemic politics in the European Union and the United States', _Comparative European Politics_ (Online), [DOI](https://doi.org/10.1057/s41295-023-00328-6 "Strength of a Weak Centre")
+* J. Ganderson, Z. Truchlewski and W. Schelkle (2023) 'Who is afraid of emergency politics? Public opinion on European crisis management during Covid-19', _Comparative European Politics_ (Online), [DOI](https://doi.org/10.1057/s41295-023-00329-5 "Who's Afraid of Emergency Politics?")
 * J. Ganderson (2023) 'Exiting after Brexit: public perceptions of future European Union member state departures', _West European Politics_ (Online), [DOI](https://10.1080/01402382.2022.2164135 "Exiting after Brexit") 
 * J. Ganderson (2022) 'Prawn Cocktails and Cold Shoulders: Labour, the Conservatives and the City of London since the 1990s', _Political Quarterly_ (93:2), pp. 209-217. [DOI](https://doi.org/10.1111/1467-923X.13137 "Prawn Cocktails and Cold Shoulders") 
 * J. Ganderson, Z. Truchlewski and W. Schelkle (2021) ‘Buying Time for Democracies? European Union Emergency Politics in the Time of COVID-19’, _West European Politics_ (44:5-6), pp. 1353-1375. [DOI](https://doi.org/10.1080/01402382.2021.1916723 "Buying Time for Democracies?") 
