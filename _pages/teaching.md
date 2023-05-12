@@ -7,9 +7,9 @@ author_profile: true
 
 ## Seminars/Lectures
 
-* The Politics and Policies of Brexit ###### (Graduate Course, LSE, European Institute, 2020-2022)
+* The Politics and Policies of Brexit (Graduate Course, LSE, European Institute, 2020-2022)
 
-* The Political Economy of Finance in Europe ###### (Graduate Course, LSE, European Institute, 2021-2022)
+* The Political Economy of Finance in Europe (Graduate Course, LSE, European Institute, 2021-2022)
 
 ## Courses Designed/Curated
 
@@ -21,7 +21,7 @@ author_profile: true
 
 ## Training
 
-* Introduction to Teaching in Higher Education ###### (Didactic theories, course design, communication skills, coursework and assessment (EUI, Florence)
+* Introduction to Teaching in Higher Education (Didactic theories, course design, communication skills, coursework and assessment (EUI, Florence)
 
 ## Awards
 
