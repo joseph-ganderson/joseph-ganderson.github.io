@@ -14,11 +14,11 @@ I enjoy working with both qualitative and quantitative data and methods. I have 
 
 I hold a BA in International Relations and Politics from the University of Sheffield, an MA in International Political Economy from King's College London, and an MRes and DPhil from the European University Institute (EUI).
 
-My doctoral dissertation was recognised as an EUI Thesis of the Month. You can read a summary [here](http://github.com "Thesis of the Month"). 
+My doctoral dissertation was recognised as an EUI Thesis of the Month. You can read a summary [here](https://cadmus.eui.eu/handle/1814/68560 "Thesis of the Month"). 
 
 Between my postgrad and doctoral studies, I spent three years working for the EdTech startup Quipper in London, South East Asia and Mexico.
 
-For further information, please see my CV.
+For further information, please see my [CV](https://www.joeganderson.net/cv/ "CV").
 
 My Work and Research
 ======
