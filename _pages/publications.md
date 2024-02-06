@@ -7,7 +7,7 @@ author_profile: true
 
 ## Journal Articles
 
-* J. Ganderson, N. Donati, M. Ferrera, A. Kyriazi, Z. Truchlewski, ‘A Very European Way Out: Polity Maintenance and the Design of Article 50’, Government & Opposition (Online), [DOI](https://doi.org/10.1017/gov.2023.44 "Article 50")
+* J. Ganderson, N. Donati, M. Ferrera, A. Kyriazi, Z. Truchlewski, ‘A Very European Way Out: Polity Maintenance and the Design of Article 50’, _Government & Opposition_ (Online), [DOI](https://doi.org/10.1017/gov.2023.44 "Article 50")
 * J. Ganderson, A. Altiparmakis, A. Kyriazi and J. Miró (2023) 'Quiet Unity: Salience, Politicisation and Togetherness in the EU’s Brexit Negotiating Position', _West European Politics_ (Online), [DOI](https://doi.org/10.1080/01402382.2023.2264717 "Quiet Unity")
 * J. Ganderson, K. Alexander Shaw and W. Schelkle (2023) 'The strength of a weak centre: pandemic politics in the European Union and the United States', _Comparative European Politics_ 21:4, pp. 448-469, [DOI](https://doi.org/10.1057/s41295-023-00328-6 "Strength of a Weak Centre")
 * J. Ganderson, Z. Truchlewski and W. Schelkle (2023) 'Who is afraid of emergency politics? Public opinion on European crisis management during Covid-19', _Comparative European Politics_ 21:4, pp. 470-490, [DOI](https://doi.org/10.1057/s41295-023-00329-5 "Who's Afraid of Emergency Politics?")
