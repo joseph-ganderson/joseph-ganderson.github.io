@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<embed src="{{ site.baseurl }}/files/CV_ganderson_dec2023.pdf" width="600" height="700" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/Ganderson - CV - Feb 2024 (No Refs).pdf" width="600" height="700" type='application/pdf'>
