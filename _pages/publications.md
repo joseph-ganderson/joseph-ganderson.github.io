@@ -7,7 +7,7 @@ author_profile: true
 
 ## Editorial
 
-* J. Ganderson, A. Altiparmakis, A. Kyriazi, W. Schelkle (eds.), 'Brexit: The Crisis that Wasn't for the EU?', _West European Politics_ (Forthcoming Spring 2024)__
+* J. Ganderson, A. Altiparmakis, A. Kyriazi, W. Schelkle (eds.), 'Brexit: The Crisis that Wasn't for the EU?', _West European Politics_ (Forthcoming Spring 2024)
 
 ## Journal Articles
 
