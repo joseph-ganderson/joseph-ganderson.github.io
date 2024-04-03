@@ -17,7 +17,7 @@ author_profile: true
 
 ## Supervision
 
-* Thesis Supervision - MSc Political Economy of Europe, LSE European Institute (2020-22)
+* Thesis Supervision - MSc Political Economy of Europe, LSE European Institute (2020-24)
 
 ## Training
 
