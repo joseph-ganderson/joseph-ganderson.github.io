@@ -18,9 +18,11 @@ My doctoral dissertation was recognised as an EUI Thesis of the Month. You can r
 
 Between my postgrad and doctoral studies, I spent three years working for the EdTech startup Quipper in London, South East Asia and Mexico.
 
+Born and raised in Nottingham, I now live near Bury St Edmunds, Suffolk.
+
 For further information, please see my [CV](https://www.joeganderson.net/cv/ "CV").
 
-My Work and Research
+Current Work and Research
 ======
 
 At the LSE, I am a team member on the ERC-funded project Policy Crisis and Crisis Politics: Sovereignty, Solidarity and Identity in the EU Post-2008 (SOLID). SOLID brings together political scientists across three universities (LSE, EUI, University of Milan) and aims to make sense of the EU’s crisis politics and its implications for the emerging European polity.
