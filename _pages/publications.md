@@ -11,7 +11,7 @@ author_profile: true
 
 ## Journal Articles
 
-* J. Ganderson, A. Kyriazi (2024) 'Braking and Exiting: Referendum Games, European Integration and the Road to the UK’s Brexit Vote', _Political Studies Review_ (Online) - Accepted, in publication
+* J. Ganderson, A. Kyriazi (2024) 'Braking and Exiting: Referendum Games, European Integration and the Road to the UK’s Brexit Vote', _Political Studies Review_ (Online), [DOI](https://doi.org/10.1177/14789299241239002 "Braking and Exiting")
 * J. Ganderson, A. Altiparmakis, A. Kyriazi, W. Schelkle (2024) 'Brexit: The Crisis that Wasn't for the EU?', _West European Politics_ (Online), [DOI](https://doi.org/10.1080/01402382.2024.2325780 "Brexit")
 * J. Ganderson, N. Donati, M. Ferrera, A. Kyriazi, Z. Truchlewski (2024) 'A Very European Way Out: Polity Maintenance and the Design of Article 50’, _Government & Opposition_ (Online), [DOI](https://doi.org/10.1017/gov.2023.44 "Article 50")
 * J. Ganderson, A. Altiparmakis, A. Kyriazi and J. Miró (2023) 'Quiet Unity: Salience, Politicisation and Togetherness in the EU’s Brexit Negotiating Position', _West European Politics_ (Online), [DOI](https://doi.org/10.1080/01402382.2023.2264717 "Quiet Unity")
