@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the European Institute, London School of Economics. My interests include comparative political economy, British and EU politics, with a particular focus on financial regulation and taxation. 
+I am a postdoctoral researcher at the [European Institute, London School of Economics](https://www.lse.ac.uk/european-institute "LSE European Institute"). My interests include comparative political economy, British and EU politics, with a particular focus on financial regulation, taxation and economic policymaking in times of crisis. 
 
 I enjoy working with both qualitative and quantitative data and methods. I have training and publishing experience in elite interviewing, historical comparative case studies, public opinion surveying and quantitative text analysis.     
 
@@ -16,7 +16,7 @@ I hold a BA in International Relations and Politics from the University of Sheff
 
 My doctoral dissertation was recognised as an EUI Thesis of the Month. You can read a summary [here](https://cadmus.eui.eu/handle/1814/68560 "Thesis of the Month"). 
 
-Between my postgrad and doctoral studies, I spent three years working for the EdTech startup Quipper in London, South East Asia and Mexico.
+Between my postgrad and doctoral studies, I spent three years working for the EdTech startup [Quipper]((https://www.quipper.com/en/) in London, Southeast Asia and Mexico.
 
 Born and raised in Nottingham, I now live near Bury St Edmunds, Suffolk.
 
