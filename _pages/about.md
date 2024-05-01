@@ -16,7 +16,7 @@ I hold a BA in International Relations and Politics from the University of Sheff
 
 My doctoral dissertation was recognised as an EUI Thesis of the Month. You can read a summary [here](https://cadmus.eui.eu/handle/1814/68560 "Thesis of the Month"). 
 
-Between my postgrad and doctoral studies, I spent three years working for the EdTech startup [Quipper]((https://www.quipper.com/en/) in London, Southeast Asia and Mexico.
+Between my postgrad and doctoral studies, I spent three years working for the EdTech startup [Quipper](https://www.quipper.com/en/) in London, Southeast Asia and Mexico.
 
 Born and raised in Nottingham, I now live near Bury St Edmunds, Suffolk.
 
