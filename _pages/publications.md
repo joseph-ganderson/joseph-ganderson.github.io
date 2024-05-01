@@ -7,17 +7,17 @@ author_profile: true
 
 ## Editorial
 
-* J. Ganderson, A. Altiparmakis, A. Kyriazi, W. Schelkle (eds.), 'Brexit: The Crisis that Wasn't for the EU?', _West European Politics_ (Online), [DOI](https://doi.org/10.1080/01402382.2024.2325780 "Brexit") - Full issue forthcoming spring 2024.
+* J. Ganderson, A. Altiparmakis, A. Kyriazi, W. Schelkle (eds.), 'Brexit: The Crisis that Wasn't for the EU?', _West European Politics_ (47:5), [DOI](https://doi.org/10.1080/01402382.2024.2325780 "Brexit") 
 
 ## Journal Articles
 
 * J. Ganderson, A. Kyriazi (2024) 'Braking and Exiting: Referendum Games, European Integration and the Road to the UK’s Brexit Vote', _Political Studies Review_ (Online), [DOI](https://doi.org/10.1177/14789299241239002 "Braking and Exiting")
-* J. Ganderson, A. Altiparmakis, A. Kyriazi, W. Schelkle (2024) 'Brexit: The Crisis that Wasn't for the EU?', _West European Politics_ (Online), [DOI](https://doi.org/10.1080/01402382.2024.2325780 "Brexit")
+* J. Ganderson, A. Altiparmakis, A. Kyriazi, W. Schelkle (2024) 'Brexit: The Crisis that Wasn't for the EU?', _West European Politics_ (47:5), pp. 997-1020, [DOI](https://doi.org/10.1080/01402382.2024.2325780 "Brexit")
 * J. Ganderson, N. Donati, M. Ferrera, A. Kyriazi, Z. Truchlewski (2024) 'A Very European Way Out: Polity Maintenance and the Design of Article 50’, _Government & Opposition_ (Online), [DOI](https://doi.org/10.1017/gov.2023.44 "Article 50")
-* J. Ganderson, A. Altiparmakis, A. Kyriazi and J. Miró (2023) 'Quiet Unity: Salience, Politicisation and Togetherness in the EU’s Brexit Negotiating Position', _West European Politics_ (Online), [DOI](https://doi.org/10.1080/01402382.2023.2264717 "Quiet Unity")
-* J. Ganderson, K. Alexander Shaw and W. Schelkle (2023) 'The strength of a weak centre: pandemic politics in the European Union and the United States', _Comparative European Politics_ 21:4, pp. 448-469, [DOI](https://doi.org/10.1057/s41295-023-00328-6 "Strength of a Weak Centre")
-* J. Ganderson, Z. Truchlewski and W. Schelkle (2023) 'Who is afraid of emergency politics? Public opinion on European crisis management during Covid-19', _Comparative European Politics_ 21:4, pp. 470-490, [DOI](https://doi.org/10.1057/s41295-023-00329-5 "Who's Afraid of Emergency Politics?")
-* J. Ganderson (2023) 'Exiting after Brexit: public perceptions of future European Union member state departures', _West European Politics_ (Online), [DOI](https://10.1080/01402382.2022.2164135 "Exiting after Brexit") 
+* J. Ganderson, A. Altiparmakis, A. Kyriazi and J. Miró (2023) 'Quiet Unity: Salience, Politicisation and Togetherness in the EU’s Brexit Negotiating Position', _West European Politics_ (47:5), pp. 1045-1071, [DOI](https://doi.org/10.1080/01402382.2023.2264717 "Quiet Unity")
+* J. Ganderson, K. Alexander Shaw and W. Schelkle (2023) 'The strength of a weak centre: pandemic politics in the European Union and the United States', _Comparative European Politics_ (21:4), pp. 448-469, [DOI](https://doi.org/10.1057/s41295-023-00328-6 "Strength of a Weak Centre")
+* J. Ganderson, Z. Truchlewski and W. Schelkle (2023) 'Who is afraid of emergency politics? Public opinion on European crisis management during Covid-19', _Comparative European Politics_ (21:4), pp. 470-490, [DOI](https://doi.org/10.1057/s41295-023-00329-5 "Who's Afraid of Emergency Politics?")
+* J. Ganderson (2023) 'Exiting after Brexit: public perceptions of future European Union member state departures', _West European Politics_ (47:5), pp. 1199-1222, [DOI](https://10.1080/01402382.2022.2164135 "Exiting after Brexit") 
 * J. Ganderson (2022) 'Prawn Cocktails and Cold Shoulders: Labour, the Conservatives and the City of London since the 1990s', _Political Quarterly_ (93:2), pp. 209-217. [DOI](https://doi.org/10.1111/1467-923X.13137 "Prawn Cocktails and Cold Shoulders") 
 * J. Ganderson, Z. Truchlewski and W. Schelkle (2021) ‘Buying Time for Democracies? European Union Emergency Politics in the Time of COVID-19’, _West European Politics_ (44:5-6), pp. 1353-1375. [DOI](https://doi.org/10.1080/01402382.2021.1916723 "Buying Time for Democracies?") 
 * J. Ganderson (2020) ‘To Change Banks or Bankers? – The Politics of Bank Structural Regulation in the UK and the Netherlands’, _Business & Politics_ (22:1), pp. 196-223. [DOI](https://doi:10.1017/bap.2019.34 "To Change Banks or Bankers?")
