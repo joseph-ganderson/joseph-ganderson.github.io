@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the [European Institute, London School of Economics](https://www.lse.ac.uk/european-institute "LSE European Institute"). I work in the fields of comparative and international political economy, mostly covering British and European Union politics. My subject expertise lies in financial regulation/innovation, macroeconomic governance, European integration and the impact of Brexit on the EU. 
+I am a postdoctoral researcher at the Department of Social and Political Sciences, University of Milan. I work in the fields of comparative and international political economy, mostly covering British and European Union politics. My subject expertise lies in financial regulation/innovation, macroeconomic governance, European integration and the impact of Brexit on the EU. 
 
 I enjoy working with both qualitative and quantitative data and methods. I have training and [publishing]([url](https://www.joeganderson.net/publications/)) experience in elite interviewing, historical comparative case studies (process tracing), public opinion surveys and quantitative text analysis.     
 
@@ -25,4 +25,4 @@ For further information, please see my [CV](https://www.joeganderson.net/cv/ "CV
 Current Work and Research
 ======
 
-At the LSE, I am a team member on the ERC-funded project Policy Crisis and Crisis Politics: Sovereignty, Solidarity and Identity in the EU Post-2008 (SOLID). SOLID brings together political scientists across three universities (LSE, EUI, University of Milan) and aims to make sense of the EU’s crisis politics and its implications for the emerging European polity.
+At Unimi, I am a team member on the ERC-funded project Policy Crisis and Crisis Politics: Sovereignty, Solidarity and Identity in the EU Post-2008 (SOLID). SOLID brings together political scientists across three universities (LSE, EUI, Milan) and aims to make sense of the EU’s crisis politics and its implications for the emerging European polity.
