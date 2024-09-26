@@ -10,7 +10,7 @@ redirect_from:
 
 I am a postdoctoral researcher at the Department of Social and Political Sciences, University of Milan. I work in the fields of comparative and international political economy, mostly covering British and European Union politics. My subject expertise lies in financial regulation/innovation, macroeconomic governance, European integration and the impact of Brexit on the EU. 
 
-I enjoy working with both qualitative and quantitative data and methods. I have training and [publishing]([url](https://www.joeganderson.net/publications/)) experience in elite interviewing, historical comparative case studies (process tracing), public opinion surveys and quantitative text analysis.     
+I enjoy working with both qualitative and quantitative data and methods. I have training and [publishing]([url](https://www.joeganderson.net/publications/)) experience in elite interviewing, historical comparative case studies (process tracing), public opinion surveys and quantitative text analysis. My work has featured in the journals _West European Politics_, _Comparative European Politics_, _Review of International Organizations_, _Business & Politics_, _Political Quarterly_, _Government & Opposition_ and _Political Studies Review_.
 
 I hold a BA in International Relations and Politics from the University of Sheffield, an MA in International Political Economy from King's College London, and an MRes and DPhil in Social and Political Sciences from the European University Institute (Italy), Florence.
 
