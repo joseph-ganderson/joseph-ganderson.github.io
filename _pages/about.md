@@ -12,17 +12,18 @@ I am a postdoctoral researcher at the Department of Social and Political Science
 
 I enjoy working with both qualitative and quantitative data and methods. I have training and [publishing](https://www.joeganderson.net/publications/) experience in elite interviewing, historical comparative case studies (process tracing), public opinion surveys and quantitative text analysis. My work has featured in the journals _West European Politics_, _Comparative European Politics_, _Review of International Organizations_, _Business & Politics_, _Political Quarterly_, _Government & Opposition_ and _Political Studies Review_.
 
-I hold a BA in International Relations and Politics from the University of Sheffield, an MA in International Political Economy from King's College London, and an MRes and DPhil in Social and Political Sciences from the European University Institute (Italy), Florence.
+I also have undergraduate and graduate teaching, supervision and module convening experience in British politics, EU politics and political economy. My teaching was awarded 'Highly Commended' status at the LSE, and I was nominated by students for 'Exceptional Teaching in an Unprecedented Year' for my approach to teaching through Covid-19.
 
-My doctoral dissertation was recognised as an EUI Thesis of the Month. You can read a summary [here](https://cadmus.eui.eu/handle/1814/68560 "Thesis of the Month"). 
+### Qualifications and Background
+
+I hold a BA in International Relations and Politics from the University of Sheffield (First-Class Hons.), an MA in International Political Economy from King's College London (with Distinction), and an MRes and DPhil in Social and Political Sciences from the European University Institute (Italy), Florence. My doctoral dissertation was recognised as an EUI Thesis of the Month. You can read a summary [here](https://cadmus.eui.eu/handle/1814/68560 "Thesis of the Month").
 
 Between my postgrad and doctoral studies, I spent three years working for the EdTech startup [Quipper](https://www.quipper.com/en/) in London, Southeast Asia and Mexico.
 
-Born and raised in Nottingham, I am now based near Bury St Edmunds, Suffolk.
-
 For further information, please see my [CV](https://www.joeganderson.net/cv/ "CV").
 
-Current Work and Research
-======
+### Current Research and Posts
 
 At Unimi, I am a team member on the ERC-funded project Policy Crisis and Crisis Politics: Sovereignty, Solidarity and Identity in the EU Post-2008 (SOLID). SOLID brings together political scientists across three universities (LSE, EUI, Milan) and aims to make sense of the EU’s crisis politics and its implications for the emerging European polity.
+
+Through the first teaching term of 2024-25, I am also Associate Lecturer in European Politics at UCL’s Department of Political Science and School of Public Policy.
