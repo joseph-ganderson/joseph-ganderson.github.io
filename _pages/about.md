@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the Department of Social and Political Sciences, University of Milan. I work in the fields of comparative and international political economy, mostly covering British and European Union politics. My subject expertise lies in financial regulation/innovation, macroeconomic governance, European integration and the impact of Brexit on the EU. 
+Welcome to my site. I am a postdoctoral researcher at the Department of Social and Political Sciences, University of Milan, and Associate Lecturer in European Politics in the Department of Political Science at UCL. 
 
-I enjoy working with both qualitative and quantitative data and methods. I have training and [publishing](https://www.joeganderson.net/publications/) experience in elite interviewing, historical comparative case studies (process tracing), public opinion surveys and quantitative text analysis. My work has featured in the journals _West European Politics_, _Comparative European Politics_, _Review of International Organizations_, _Business & Politics_, _Political Quarterly_, _Government & Opposition_ and _Political Studies Review_.
+I work in the fields of comparative and international political economy, mostly covering British and European Union politics. My subject expertise lies in financial regulation/innovation, macroeconomic governance, European integration and the impact of Brexit on the EU. 
+
+My work features both qualitative and quantitative data and methods. I have training and [publishing](https://www.joeganderson.net/publications/) experience in elite interviewing, historical comparative case studies (process tracing), public opinion surveys design/analysis, and quantitative text analysis. My academic research has featured in the journals _West European Politics_, _Comparative European Politics_, _Review of International Organizations_, _Business & Politics_, _Political Quarterly_, _Government & Opposition_ and _Political Studies Review_.
 
 I also have undergraduate and graduate teaching, supervision and module convening experience in British politics, EU politics and political economy. My teaching was awarded 'Highly Commended' status at the LSE, and I was nominated by students for 'Exceptional Teaching in an Unprecedented Year' for my approach to teaching through Covid-19.
 
