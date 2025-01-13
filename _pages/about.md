@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my site. I am a postdoctoral researcher at the Department of Social and Political Sciences, University of Milan, and Associate Lecturer in European Politics in the Department of Political Science at UCL. 
+I am a postdoctoral researcher at the Department of Social and Political Sciences, University of Milan, and Associate Lecturer in European Politics in the Department of Political Science at UCL. 
 
 I work in the fields of comparative and international political economy, mostly covering British and European Union politics. My subject expertise lies in financial regulation/innovation, macroeconomic governance, European integration and the impact of Brexit on the EU. 
 
