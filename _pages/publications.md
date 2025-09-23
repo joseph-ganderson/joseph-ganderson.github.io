@@ -12,15 +12,17 @@ author_profile: true
 ## Journal Articles
 
 * J. Ganderson, A. Kyriazi (2024) 'Braking and Exiting: Referendum Games, European Integration and the Road to the UK’s Brexit Vote', _Political Studies Review_ (23:2), pp. 461-481, [DOI](https://doi.org/10.1177/14789299241239002 "Braking and Exiting")
-<details open>
-<summary style="font-size:16px; font-weight:bold;">Accessible Summary</summary>
+<details>
+<summary><strong>Accessible Summary</strong></summary>
 
-<div style="font-size:14px; line-height:1.4; margin-top:6px;">
-Why did David Cameron call the Brexit referendum? This article challenges the idea that Britain’s EU referendum was simply the result of deep-rooted incompatibility or a sudden surge in Euroscepticism. Instead, it shows how years of political “referendum games” in Parliament built up pressure: backbench MPs repeatedly pushed for votes on Europe, and party leaders defused the tension by making promises of future referendums. Each new EU treaty sparked temporary backlashes, but over time these promises created a self-sustaining demand for a referendum. By the time of the Lisbon Treaty and the Eurozone crisis, this dynamic had escalated beyond leaders’ control, making an in/out vote inevitable. The study traces this process by analysing parliamentary debates from 2000 to 2015, showing how calls for a brake on integration gradually hardened into demands for a full exit referendum.  
+<sub>
+Why did David Cameron call the Brexit referendum? This article challenges the idea that Britain’s EU referendum was simply the result of deep-rooted incompatibility or a sudden surge in Euroscepticism. Instead, it shows how years of political “referendum games” in Parliament built up pressure: backbench MPs repeatedly pushed for votes on Europe, and party leaders defused the tension by making promises of future referendums. Each new EU treaty sparked temporary backlashes, but over time these promises created a self-sustaining demand for a referendum. By the time of the Lisbon Treaty and the Eurozone crisis, this dynamic had escalated beyond leaders’ control, making an in/out vote inevitable. The study traces this process by analysing parliamentary debates from 2000 to 2015, showing how calls for a brake on integration gradually hardened into demands for a full exit referendum.    
+</sub>
 
-<br><br>
-<b>European Union</b> • <b>Referendums</b> • <b>Brexit</b> • <b>Euroscepticism</b> • <b>British politics</b>
-</div>
+<sub>
+<strong>European Union</strong> • <strong>Referendums</strong> • <strong>Brexit</strong> • <strong>Euroscepticism</strong> • <strong>British politics</strong>
+</sub>
+
 </details>
 
 
