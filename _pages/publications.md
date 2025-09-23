@@ -11,7 +11,11 @@ author_profile: true
 
 ## Journal Articles
 
-* J. Ganderson, A. Kyriazi (2024) 'Braking and Exiting: Referendum Games, European Integration and the Road to the UK’s Brexit Vote', _Political Studies Review_ (Online), [DOI](https://doi.org/10.1177/14789299241239002 "Braking and Exiting")
+* J. Ganderson, A. Kyriazi (2024) 'Braking and Exiting: Referendum Games, European Integration and the Road to the UK’s Brexit Vote', _Political Studies Review_ (Online), [DOI](https://doi.org/10.1177/14789299241239002 "Braking and Exiting"), <details open>
+  <summary>Accessible Summary</summary>
+  Why did David Cameron call the Brexit referendum? This article challenges the idea that Britain’s EU referendum was simply the result of deep-rooted incompatibility or a sudden surge in Euroscepticism. Instead, it shows how years of political “referendum games” in Parliament built up pressure: backbench MPs repeatedly pushed for votes on Europe, and party leaders defused the tension by making promises of future referendums. Each new EU treaty sparked temporary backlashes, but over time these promises created a self-sustaining demand for a referendum. By the time of the Lisbon Treaty and the Eurozone crisis, this dynamic had escalated beyond leaders’ control, making an in/out vote inevitable. The study traces this process by analysing parliamentary debates from 2000 to 2015, showing how calls for a brake on integration gradually hardened into demands for a full exit referendum.
+  **European Union** • **Referendums** • **Brexit** • **Euroscepticism** • **British politics**
+</details>
 * J. Ganderson, A. Altiparmakis, A. Kyriazi, W. Schelkle (2024) 'Brexit: The Crisis that Wasn't for the EU?', _West European Politics_ (47:5), pp. 997-1020, [DOI](https://doi.org/10.1080/01402382.2024.2325780 "Brexit")
 * J. Ganderson, N. Donati, M. Ferrera, A. Kyriazi, Z. Truchlewski (2024) 'A Very European Way Out: Polity Maintenance and the Design of Article 50’, _Government & Opposition_ (Online), [DOI](https://doi.org/10.1017/gov.2023.44 "Article 50")
 * J. Ganderson, A. Altiparmakis, A. Kyriazi and J. Miró (2023) 'Quiet Unity: Salience, Politicisation and Togetherness in the EU’s Brexit Negotiating Position', _West European Politics_ (47:5), pp. 1045-1071, [DOI](https://doi.org/10.1080/01402382.2023.2264717 "Quiet Unity")
