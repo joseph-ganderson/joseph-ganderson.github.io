@@ -19,7 +19,7 @@ author_profile: true
   <strong>European Union</strong> • <strong>Referendums</strong> • <strong>Brexit</strong> • <strong>Euroscepticism</strong> • <strong>British politics</strong> • <strong>Quantitative and qualitative text analysis</strong>
   </sub>
   </details>
-* J. Ganderson, A. Altiparmakis, A. Kyriazi, W. Schelkle (2024) 'Brexit: The Crisis that Wasn't for the EU?', _West European Politics_ (47:5), pp. 997-1020, [DOI](https://doi.org/10.1080/01402382.2024.2325780 "Brexit")
+- J. Ganderson, A. Altiparmakis, A. Kyriazi, W. Schelkle (2024) 'Brexit: The Crisis that Wasn't for the EU?', _West European Politics_ (47:5), pp. 997-1020, [DOI](https://doi.org/10.1080/01402382.2024.2325780 "Brexit")
   <details>
   <summary><sub><strong>Abstract</strong></sub></summary>
   <sub>
@@ -27,7 +27,7 @@ author_profile: true
   <strong>European Union</strong> • <strong>Brexit</strong> • <strong>Cleavages</strong> • <strong>Crisis</strong> • <strong>Post-functionalism</strong>
   </sub>
   </details>
-* J. Ganderson, N. Donati, M. Ferrera, A. Kyriazi, Z. Truchlewski (2024) 'A Very European Way Out: Polity Maintenance and the Design of Article 50’, _Government & Opposition_ (Online), [DOI](https://doi.org/10.1017/gov.2023.44 "Article 50")
+- J. Ganderson, N. Donati, M. Ferrera, A. Kyriazi, Z. Truchlewski (2024) 'A Very European Way Out: Polity Maintenance and the Design of Article 50’, _Government & Opposition_ (Online), [DOI](https://doi.org/10.1017/gov.2023.44 "Article 50")
 <details>
   <summary><sub><strong>Abstract</strong></sub></summary>
   <sub>
@@ -35,7 +35,7 @@ author_profile: true
   <strong>European Union</strong> • <strong>Polity Building</strong> • <strong>Secession</strong> • <strong>Article 50</strong> • <strong>Euroscepticism</strong>
   </sub>
   </details>
-* J. Ganderson, A. Altiparmakis, A. Kyriazi and J. Miró (2023) 'Quiet Unity: Salience, Politicisation and Togetherness in the EU’s Brexit Negotiating Position', _West European Politics_ (47:5), pp. 1045-1071, [DOI](https://doi.org/10.1080/01402382.2023.2264717 "Quiet Unity")
+- J. Ganderson, A. Altiparmakis, A. Kyriazi and J. Miró (2023) 'Quiet Unity: Salience, Politicisation and Togetherness in the EU’s Brexit Negotiating Position', _West European Politics_ (47:5), pp. 1045-1071, [DOI](https://doi.org/10.1080/01402382.2023.2264717 "Quiet Unity")
 <details>
   <summary><sub><strong>Abstract</strong></sub></summary>
   <sub>
@@ -43,7 +43,7 @@ author_profile: true
   <strong>Brexit</strong> • <strong>European Union</strong> • <strong>Negotiations</strong> • <strong>Politicisation</strong> • <strong>Media Content Analysis</strong>
   </sub>
   </details>
-* J. Ganderson, K. Alexander Shaw and W. Schelkle (2023) 'The Strength of a Weak Centre: Pandemic Politics in the European Union and the United States', _Comparative European Politics_ (21:4), pp. 448-469, [DOI](https://doi.org/10.1057/s41295-023-00328-6 "Strength of a Weak Centre")
+- J. Ganderson, K. Alexander Shaw and W. Schelkle (2023) 'The Strength of a Weak Centre: Pandemic Politics in the European Union and the United States', _Comparative European Politics_ (21:4), pp. 448-469, [DOI](https://doi.org/10.1057/s41295-023-00328-6 "Strength of a Weak Centre")
 <details>
   <summary><sub><strong>Abstract</strong></sub></summary>
   <sub>
@@ -51,7 +51,7 @@ author_profile: true
   <strong>Covid-19</strong> • <strong>Crisis Response</strong> • <strong>European Union</strong> • <strong>Federalism</strong> • <strong>US politics</strong>
   </sub>
   </details> 
-* J. Ganderson, Z. Truchlewski and W. Schelkle (2023) 'Who is Afraid of Emergency Politics? Public Opinion on European Crisis Management during Covid-19', _Comparative European Politics_ (21:4), pp. 470-490, [DOI](https://doi.org/10.1057/s41295-023-00329-5 "Who's Afraid of Emergency Politics?")
+- J. Ganderson, Z. Truchlewski and W. Schelkle (2023) 'Who is Afraid of Emergency Politics? Public Opinion on European Crisis Management during Covid-19', _Comparative European Politics_ (21:4), pp. 470-490, [DOI](https://doi.org/10.1057/s41295-023-00329-5 "Who's Afraid of Emergency Politics?")
 <details>
   <summary><sub><strong>Abstract</strong></sub></summary>
   <sub>
@@ -59,7 +59,7 @@ author_profile: true
   <strong>Crisis politics</strong> • <strong>Emergency Politics</strong> • <strong>European Union politics</strong> • <strong>Covid-19</strong> • <strong>Public Opinion</strong> • <strong>Cleavage Theory</strong>
   </sub>
   </details>  
-* J. Ganderson (2023) 'Exiting after Brexit: Public Perceptions of Future European Union Member State Departures', _West European Politics_ (47:5), pp. 1199-1222, [DOI](https://10.1080/01402382.2022.2164135 "Exiting after Brexit")
+- J. Ganderson (2023) 'Exiting after Brexit: Public Perceptions of Future European Union Member State Departures', _West European Politics_ (47:5), pp. 1199-1222, [DOI](https://10.1080/01402382.2022.2164135 "Exiting after Brexit")
 <details>
   <summary><sub><strong>Abstract</strong></sub></summary>
   <sub>
@@ -67,7 +67,7 @@ author_profile: true
   <strong>Brexit</strong> • <strong>European Union</strong> • <strong>Public Opinion</strong> • <strong>Euroscepticism</strong> • <strong>Motivated Reasoning</strong>
   </sub>
   </details>
-* J. Ganderson (2022) 'Prawn Cocktails and Cold Shoulders: Labour, the Conservatives and the City of London since the 1990s', _Political Quarterly_ (93:2), pp. 209-217. [DOI](https://doi.org/10.1111/1467-923X.13137 "Prawn Cocktails and Cold Shoulders")
+- J. Ganderson (2022) 'Prawn Cocktails and Cold Shoulders: Labour, the Conservatives and the City of London since the 1990s', _Political Quarterly_ (93:2), pp. 209-217. [DOI](https://doi.org/10.1111/1467-923X.13137 "Prawn Cocktails and Cold Shoulders")
 <details>
   <summary><sub><strong>Abstract</strong></sub></summary>
   <sub>
@@ -75,7 +75,7 @@ author_profile: true
   <strong>Brexit</strong> • <strong>European Union</strong> • <strong>Public Opinion</strong> • <strong>Euroscepticism</strong> • <strong>Motivated Reasoning</strong>
   </sub>
   </details>
-* J. Ganderson, Z. Truchlewski and W. Schelkle (2021) ‘Buying Time for Democracies? European Union Emergency Politics in the Time of COVID-19’, _West European Politics_ (44:5-6), pp. 1353-1375. [DOI](https://doi.org/10.1080/01402382.2021.1916723 "Buying Time for Democracies?")
+- J. Ganderson, Z. Truchlewski and W. Schelkle (2021) ‘Buying Time for Democracies? European Union Emergency Politics in the Time of COVID-19’, _West European Politics_ (44:5-6), pp. 1353-1375. [DOI](https://doi.org/10.1080/01402382.2021.1916723 "Buying Time for Democracies?")
 <details>
   <summary><sub><strong>Abstract</strong></sub></summary>
   <sub>
@@ -83,7 +83,7 @@ author_profile: true
   <strong>Covid-19</strong> • <strong>Crisis Politics</strong> • <strong>Emergency Politics</strong> • <strong>EU Politics</strong> • <strong>Policy Coding</strong>
   </sub>
   </details>
-* J. Ganderson (2020) ‘To Change Banks or Bankers? – The Politics of Bank Structural Regulation in the UK and the Netherlands’, _Business & Politics_ (22:1), pp. 196-223. [DOI](https://doi:10.1017/bap.2019.34 "To Change Banks or Bankers?")
+- J. Ganderson (2020) ‘To Change Banks or Bankers? – The Politics of Bank Structural Regulation in the UK and the Netherlands’, _Business & Politics_ (22:1), pp. 196-223. [DOI](https://doi:10.1017/bap.2019.34 "To Change Banks or Bankers?")
 <details>
   <summary><sub><strong>Abstract</strong></sub></summary>
   <sub>
@@ -91,7 +91,7 @@ author_profile: true
   <strong>Bank Structural Reform</strong> • <strong>Financial Regulation</strong> • <strong>Independent Commission on Banking</strong> • <strong>Party Systems</strong> • <strong>Business Power</strong>
   </sub>
   </details> 
-* J. Ganderson, L. Seelkopf, P. Genschel, J. Limberg, Y. Mnaili, E. Ehmanis (2019) ‘The Rise of Modern Taxation: A New Comprehensive Dataset of Tax Introductions Worldwide’, _Review of International Organizations_ (16), pp. 239-263. [DOI](https://doi.org/10.1007/s11558-019-09359-9 "The Rise of Modern Taxation")
+- J. Ganderson, L. Seelkopf, P. Genschel, J. Limberg, Y. Mnaili, E. Ehmanis (2019) ‘The Rise of Modern Taxation: A New Comprehensive Dataset of Tax Introductions Worldwide’, _Review of International Organizations_ (16), pp. 239-263. [DOI](https://doi.org/10.1007/s11558-019-09359-9 "The Rise of Modern Taxation")
 <details>
   <summary><sub><strong>Abstract</strong></sub></summary>
   <sub>
