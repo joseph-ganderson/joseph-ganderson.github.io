@@ -11,6 +11,22 @@ author_profile: true
 
 ## Journal Articles
 
+* J. Ganderson, Z. Truchlewski, D. Kovarek (2025) 'Unequal Solidarity: Club Rules and Crisis Support in the European Polity', _JCMS: Journal of Common Market Studies_ (Online), [DOI](https://doi.org/10.1111/jcms.70076)
+  <details>
+  <summary><sub><strong>Abstract</strong></sub></summary>
+  <sub>
+  Is European solidarity during crises due to common or close identities? Or do Europeans punish rule-breaking countries by showing them less solidarity? Research on the determinants of European solidarity increasingly focuses on ‘solidarity to’, how givers’ attitudes are shaped by their perceptions of receiving member states. Amongst many, there are two possible channels of solidarity in the EU: either through a common identity or through the perception of deservingness and playing by common rules. We know little about how closely EU citizens’ attitudes correlate with the observed behaviours of other countries. This matters because in compound, multinational polities like the EU, preferences for emergency solidarity are rooted in perceptions of shared political community, not thicker identities like in national welfare states. We ﬁnd that undermining certain common EU rules reduces solidarity, but not all rules and states are equal. European solidarity is thus inﬂuenced by an interaction between country identity and rule-breaking: new member states from Central Europe are more punished for breaking the rules, whilst founding member states get a free pass. In line with other ﬁndings in the experimental literature, the risk is that the European polity is built on ﬁxed identity-differentiated solidarity, rather than liberal egalitarian ideals. <br>
+  <strong>European Union</strong> • <strong>Common Rules</strong> • <strong>Crisis</strong> • <strong>EU Rules</strong> • <strong>Solidarity</strong> • <strong>Multilevel logistic regression</strong>
+  </sub>
+  </details>
+* J. Ganderson, H. Kleider, J. Limberg (2025) 'Partisanship and the Nexus between Regressive Taxation and the Welfare State', _Journal of European Social Policy_ (Online), [DOI](https://doi.org/10.1177/09589287251396387)
+  <details>
+  <summary><sub><strong>Abstract</strong></sub></summary>
+  <sub>
+  Regressive consumption taxes - especially value-added taxes (VATs) - are often seen as a “money machine”: they raise substantial revenue while sparing mobile capital, and thus are thought to help governments sustain generous welfare states under fiscal pressure. Existing accounts largely treat this “regressive tax-welfare nexus” as a structural relationship that operates independently of political context. We revisit this assumption by foregrounding the role of partisanship. We argue that while regressive taxes provide substantial and stable revenue, only left-leaning governments tend to channel these resources into welfare expansion. Non-left governments may also raise regressive taxes, but typically allocate the proceeds elsewhere. Using panel data for 20 OECD countries over three decades, we show that increases in VAT rates are positively associated with welfare state generosity only under left governments. Our findings challenge structural interpretations of the tax-welfare relationship and demonstrate that partisan politics continues to shape how governments deploy regressive revenues. <br>
+  <strong>Welfare State</strong> • <strong>Taxation</strong> • <strong>Political Parties</strong> • <strong>Partisanship</strong> • <strong>Political Economy</strong> • <strong>Panel data, OLS regressions</strong>
+  </sub>
+  </details>
 * J. Ganderson, A. Kyriazi (2024) 'Braking and Exiting: Referendum Games, European Integration and the Road to the UK’s Brexit Vote', _Political Studies Review_ (23:2), pp. 461-481, [DOI](https://doi.org/10.1177/14789299241239002 "Braking and Exiting") 
   <details>
   <summary><sub><strong>Abstract</strong></sub></summary>
