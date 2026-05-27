@@ -12,7 +12,7 @@ redirect_from:
 
 I am a political scientist and visiting researcher at the Department of Social and Political Sciences, University of Milan. 
 
-### Interests and Research
+### Specialisms, Skills and Research
 
 My primary research and teaching interests are in the political economy of finance and taxation, European Union and British politics. My subject expertise lies in financial regulation/innovation, macroeconomic governance, European integration and Brexit. 
 
