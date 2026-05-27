@@ -11,6 +11,14 @@ author_profile: true
 
 ## Journal Articles
 
+* J. Ganderson, K. Alexander-Shaw, A. Kyriazi (2026) 'What’s in a Crisis? Taking Contestation Seriously in the study of Europe’s Crisis Politics', _Comparative European Politics_ (Online), [DOI](https://doi.org/10.1057/s41295-025-00451-6)
+  <details>
+  <summary><sub><strong>Abstract</strong></sub></summary>
+  <sub>
+  The study of European politics has taken a crisis-oriented turn. Yet despite a proliferation of new empirical research, crisis remains undertheorised as a unit of analysis in European studies. Part of the problem, we suggest, is an over-reliance on realist assumptions that treat crises as manifest threats, underestimating the extent to which they are also contingent political constructions. Systematically placing greater emphasis on the constructedness of crises, via an empirical focus on processes of contestation, would admit the potential for greater outcome-contingency and help European studies to reinterpret puzzling research questions.We make the case for a systematic focus on recurring phases and dimensions of crisis contestation, and outline a general scheme for analysing crisis cases, comprising four phased dimensions that recurrently and significantly determine outcomes: recognition, definition, attribution and remediation. These dimensions are illustrated with diverse examples of commonly-labelled crises from contemporary European politics. Reflecting on crisis as an analytical category, and placing greater emphasis on contestation, can also help structure comparisons across crises, moving beyond the notion of a ‘polycrisis’ toward more detailed consideration of the mechanisms linking crises. <br>
+  <strong>European Union</strong> • <strong>Contestation</strong> • <strong>Crisis</strong> • <strong>Constructivism</strong> • <strong>Polycrisis</strong> • <strong>Comparative historical analysis</strong>
+  </sub>
+  </details>
 * J. Ganderson, Z. Truchlewski, D. Kovarek (2025) 'Unequal Solidarity: Club Rules and Crisis Support in the European Polity', _JCMS: Journal of Common Market Studies_ (Online), [DOI](https://doi.org/10.1111/jcms.70076)
   <details>
   <summary><sub><strong>Abstract</strong></sub></summary>
