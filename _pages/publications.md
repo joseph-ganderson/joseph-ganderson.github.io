@@ -7,10 +7,18 @@ author_profile: true
 
 ## Editorial
 
-* J. Ganderson, A. Altiparmakis, A. Kyriazi, W. Schelkle (eds.), 'Brexit: The Crisis that Wasn't for the EU?', _West European Politics_ (47:5), [DOI](https://doi.org/10.1080/01402382.2024.2325780 "Brexit") 
+* J. Ganderson, A. Altiparmakis, A. Kyriazi, W. Schelkle (eds.), 'Brexit: The Crisis that Wasn't for the EU?', _West European Politics_ (47:5), [DOI](https://doi.org/10.1080/01402382.2024.2325780 "Brexit: The Crisis that Wasn’t for the EU?") 
 
 ## Journal Articles
 
+* J. Ganderson (2026) 'Membership Crisis and the Contested Contemporary Development of the European Union', _Journal of European Public Policy_ (Online), [DOI](https://doi.org/10.1080/13501763.2026.2680204)
+  <details>
+  <summary><sub><strong>Abstract</strong></sub></summary>
+  <sub>
+  This article compares two contemporary crises of the European Union: Brexit and Rule of Law concerns in Hungary and Poland. It makes two related contributions. First, it conceptualises and defines ‘membership crisis’, a category capturing the two cases. State-building theories – Rokkan’s developmental concepts of territorial bounding and binding authority; and Stepan’s federalist logics of holding and coming together – are combined in a sequential framework describing how membership crisis destabilises and reshapes EU membership models. These are events originating in member states seeking a new, precedent-setting membership model that challenges EU authority and polity development. European leaders’ responses are determined by the politics of coming or holding together around the EU’s executive institutions. This is where the cases diverge. A structured comparison explores the divergent natures of the two cases. The shock of Brexit and overt membership change triggered a ‘coming together’ effect in the EU27, and a reaffirmation of club rules. The Rule of Law crisis reconfigures EU authority, presenting only creeping, covert changes to membership with no existential moment révélateur. The crises demonstrate how the European polity is counterintuitively sustained by a reaction to profound shocks and undermined by an incapacity to innovate without them.<br>
+  <strong>Brexit</strong> • <strong>Rule of Law</strong> • <strong>European Union</strong> • <strong>EU Crisis</strong> • <strong>State building theory</strong> • <strong>Comparative case studies</strong>
+  </sub>
+  </details>
 * J. Ganderson, K. Alexander-Shaw, A. Kyriazi (2026) 'What’s in a Crisis? Taking Contestation Seriously in the study of Europe’s Crisis Politics', _Comparative European Politics_ (Online), [DOI](https://doi.org/10.1057/s41295-025-00451-6)
   <details>
   <summary><sub><strong>Abstract</strong></sub></summary>
